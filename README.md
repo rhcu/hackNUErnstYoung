@@ -1,2 +1,2 @@
-# hackNUNaimiKzProblem
-Android app created during the Hackathon
+# hackNUErnstYoung
+Telegram bot created during the Hackathon
