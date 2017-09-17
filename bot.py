@@ -19,7 +19,7 @@ def echo(bot, update):
     
     bot.sendMessage(chat_id=update.message.chat_id, text=resp.text)
 
-updater = Updater(token='361363530:AAE2nuPcGJ9eGgxh0Dk76B2Lk8pAZnSgXOs')  # Token given by BotFather
+updater = Updater(token='TOKEN')  # Token given by BotFather
 dp = updater.dispatcher
 # on different commands - answer in Telegram
 dp.add_handler(CommandHandler("start", start))
